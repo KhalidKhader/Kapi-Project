@@ -1,0 +1,1001 @@
+Experience,Job Type,Location,Education Level,Major,Level,Industry,Salary_in_USD
+1.0,Temporary,Qatar,Unknown,IT & Computer Science,Assistant,Other,1236.263736263736
+2.0,Full-time,Unknown,Bachelor,Healthcare & Nursing,Unknown,Healthcare,3746.5430402930397
+3.0,Full-time,Unknown,Bachelor,Sales & Marketing,Mid,Food & Beverage,1510.989010989011
+1.0,Full-time,Unknown,Unknown,Food & Beverage,Junior,Hospitality,686.8131868131867
+2.0,Full-time,Unknown,Unknown,IT & Computer Science,Unknown,Other,947.8021978021977
+2.0,Full-time,Unknown,Bachelor,Sales & Marketing,Unknown,Other,1098.9010989010987
+2.0,Full-time,Unknown,Bachelor,Other,Unknown,Retail,824.1758241758241
+3.0,Full-time,UAE,Unknown,Other,Unknown,Manufacturing,3405.9945504087195
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Other,599.4550408719347
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Real Estate,2452.316076294278
+1.0,Full-time,UAE,Unknown,Other,Unknown,Other,817.574931880109
+0.0,Full-time,UAE,Bachelor,Finance & Accounting,Executive,Other,11580.381471389646
+5.0,Full-time,UAE,Bachelor,Business,Manager,Real Estate,3814.713896457766
+0.0,Full-time,UAE,Unknown,Other,Unknown,Retail,1907.356948228883
+5.0,Full-time,UAE,Unknown,Business,Unknown,Other,681.198910081744
+1.0,Full-time,UAE,Unknown,Other,Junior,Retail,613.0790190735695
+0.0,Full-time,UAE,Unknown,Business,Junior,Retail,681.198910081744
+0.0,Full-time,UAE,Unknown,Other,Unknown,Retail,681.198910081744
+3.0,Temporary,UAE,Unknown,Other,Lead,Technology,1634.8773841961854
+3.0,Full-time,UAE,Unknown,Business,Unknown,Recreation,1226.158038147139
+2.0,Full-time,UAE,Unknown,Business,Assistant,Other,1771.1171662125341
+5.0,Full-time,UAE,Bachelor,Other,Unknown,Technology,1294.2779291553136
+1.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Retail,613.0790190735695
+2.0,Full-time,UAE,College,Business,Unknown,Technology,1498.6376021798367
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,1634.8773841961854
+2.0,Full-time,UAE,Bachelor,Other,Junior,Retail,953.6784741144415
+5.0,Full-time,UAE,Unknown,Business,Manager,Services,2724.795640326976
+0.0,Full-time,UAE,Unknown,Other,Executive,Technology,408.71934604904635
+0.0,Temporary,UAE,Unknown,Other,Lead,Technology,817.4386920980927
+2.0,Full-time,UAE,Bachelor,Other,Mid,Education,3269.754768392371
+1.0,Full-time,UAE,Unknown,Other,Unknown,Technology,681.198910081744
+0.0,Full-time,UAE,Bachelor,Sales & Marketing,Executive,Other,1021.7983651226159
+2.0,Full-time,UAE,Bachelor,IT & Computer Science,Assistant,Other,885.5585831062671
+7.0,Full-time,UAE,Bachelor,Engineering & Technology,Manager,Construction,1089.9182561307903
+1.0,Full-time,UAE,High School,Food & Beverage,Unknown,Hospitality,476.83923705722077
+5.0,Full-time,UAE,Bachelor,Business,Manager,Retail,2997.2752043596734
+3.0,Full-time,UAE,Unknown,Other,Executive,Manufacturing,1362.397820163488
+5.0,Full-time,UAE,Bachelor,Other,Unknown,Other,1226.158038147139
+5.0,Temporary,UAE,Unknown,Other,Executive,Other,1771.1171662125341
+0.0,Full-time,UAE,Unknown,Business,Manager,Real Estate,2997.2752043596734
+3.0,Full-time,UAE,Unknown,Other,Unknown,Other,1634.8773841961854
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,2724.795640326976
+3.0,Full-time,UAE,High School,Other,Unknown,Other,1634.8773841961854
+0.0,Full-time,UAE,Bachelor,Business,Intern,Other,544.9591280653951
+2.0,Full-time,UAE,Unknown,Other,Unknown,Education,953.6784741144415
+5.0,Unknown,Unknown,Unknown,Other,Manager,Other,2179.8365122615805
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Retail,1634.8773841961854
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Lead,Real Estate,817.4386920980927
+1.0,Full-time,UAE,Unknown,Other,Unknown,Real Estate,885.5585831062671
+0.0,Full-time,UAE,Unknown,Business,Manager,Other,1089.9182561307903
+0.0,Full-time,UAE,High School,Other,Junior,Construction,749.3188010899183
+1.0,Full-time,UAE,Unknown,Business,Manager,Retail,1907.356948228883
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Mid,Technology,817.4386920980927
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Other,558.5831062670301
+4.0,Full-time,UAE,Diploma,Engineering & Technology,Unknown,Construction,449.591280653951
+5.0,Full-time,UAE,Unknown,Sales & Marketing,Executive,Healthcare,1089.9182561307903
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Executive,Retail,681.198910081744
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Manager,Retail,2588.555858310627
+0.0,Full-time,UAE,Unknown,Finance & Accounting,Junior,Other,1634.8773841961854
+0.0,Full-time,UAE,Unknown,Other,Unknown,Manufacturing,435.9673024523161
+0.0,Full-time,UAE,Unknown,Healthcare & Nursing,Unknown,Healthcare,1634.8773841961854
+2.0,Full-time,UAE,Unknown,Other,Lead,Technology,1089.9182561307903
+3.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Manufacturing,476.83923705722077
+2.0,Unknown,Unknown,Unknown,Other,Executive,Other,749.3188010899183
+0.0,Full-time,UAE,Unknown,Business,Manager,Retail,613.0790190735695
+0.0,Full-time,UAE,Unknown,Business,Junior,Education,749.3188010899183
+5.0,Full-time,UAE,Unknown,Real Estate & Construction,Lead,Manufacturing,817.4386920980927
+2.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Food & Beverage,613.0790190735695
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Food & Beverage,681.198910081744
+3.0,Full-time,UAE,Unknown,Business,Unknown,Retail,2724.795640326976
+3.0,Full-time,UAE,Unknown,Business,Executive,Manufacturing,1021.7983651226159
+0.0,Part-time,UAE,Bachelor,Other,Unknown,Education,136.23978201634878
+2.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,2316.0762942779293
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,817.4386920980927
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Real Estate,817.4386920980927
+2.0,Full-time,UAE,Bachelor,IT & Computer Science,Manager,Energy,953.6784741144415
+3.0,Full-time,UAE,Unknown,Healthcare & Nursing,Unknown,Healthcare,1975.4768392370574
+5.0,Full-time,UAE,Bachelor,Business,Unknown,Technology,1634.8773841961854
+2.0,Full-time,UAE,Unknown,Business,Lead,Other,681.198910081744
+0.0,Full-time,UAE,Unknown,Business,Manager,Hospitality,3405.9945504087195
+1.0,Full-time,UAE,Unknown,Other,Manager,Healthcare,817.4386920980927
+1.0,Part-time,UAE,Bachelor,Education & Teaching,Unknown,Education,3814.713896457766
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Other,4904.632152588556
+0.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Assistant,Healthcare,2043.5967302452318
+1.0,Full-time,UAE,Unknown,Other,Unknown,Retail,749.3188010899183
+1.0,Full-time,UAE,Unknown,Business,Lead,Hospitality,517.7111716621254
+0.0,Full-time,UAE,Unknown,Education & Teaching,Unknown,Education,1226.158038147139
+0.0,Full-time,UAE,Unknown,Food & Beverage,Manager,Food & Beverage,1226.158038147139
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Manufacturing,640.3269754768393
+2.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,3405.9945504087195
+2.0,Full-time,UAE,Bachelor,Education & Teaching,Senior,Education,1226.158038147139
+2.0,Full-time,UAE,Bachelor,Other,Unknown,Education,1226.158038147139
+7.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Construction,476.83923705722077
+1.0,Full-time,UAE,Unknown,Other,Unknown,Retail,912.8065395095368
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,885.5585831062671
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Healthcare,544.9591280653951
+1.0,Full-time,UAE,Unknown,Healthcare & Nursing,Unknown,Healthcare,2588.555858310627
+0.0,Internship,UAE,Bachelor,Sales & Marketing,Intern,Technology,544.9591280653951
+4.0,Full-time,UAE,Diploma,IT & Computer Science,Manager,Manufacturing,681.198910081744
+0.0,Full-time,USA,Bachelor,Healthcare & Nursing,Junior,Healthcare,14.850136239782017
+0.0,Full-time,USA,Bachelor,Healthcare & Nursing,Junior,Healthcare,37.73841961852862
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Mid,Real Estate,953.6784741144415
+2.0,Full-time,Unknown,Bachelor,Healthcare & Nursing,Unknown,Healthcare,3748.0699364214356
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Manufacturing,817.4386920980927
+8.0,Contract,UAE,Unknown,IT & Computer Science,Senior,Technology,6130.790190735695
+0.0,Full-time,UAE,Unknown,Other,Assistant,Healthcare,476.83923705722077
+2.0,Full-time,UAE,Diploma,Engineering & Technology,Executive,Technology,1021.7983651226159
+1.0,Full-time,UAE,Unknown,Business,Lead,Hospitality,517.7111716621254
+1.0,Full-time,UAE,Unknown,Sales & Marketing,Junior,Retail,544.9591280653951
+5.0,Full-time,UAE,Unknown,Other,Junior,Manufacturing,1089.9182561307903
+2.0,Full-time,UAE,Unknown,Other,Manager,Real Estate,1089.9182561307903
+0.0,Full-time,UAE,Bachelor,Education & Teaching,Unknown,Education,1226.158038147139
+0.0,Full-time,UAE,Bachelor,Education & Teaching,Unknown,Education,1226.158038147139
+1.0,Full-time,UAE,Bachelor,Other,Assistant,Healthcare,2384.1961852861036
+3.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Food & Beverage,1362.397820163488
+3.0,Full-time,UAE,Unknown,Other,Assistant,Retail,1049.0463215258856
+5.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Services,1634.8773841961854
+0.0,Full-time,UAE,College,Food & Beverage,Junior,Hospitality,395.09536784741147
+0.0,Full-time,UAE,Unknown,Business,Manager,Retail,1089.9182561307903
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,613.0790190735695
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,1089.9182561307903
+2.0,Unknown,Unknown,Unknown,Business,Executive,Other,1021.7983651226159
+1.0,Full-time,Europe,Diploma,Real Estate & Construction,Executive,Other,1021.7983651226159
+0.0,Full-time,UAE,Unknown,Food & Beverage,Junior,Hospitality,953.6784741144415
+5.0,Full-time,Unknown,Unknown,Business,Lead,Manufacturing,1373.6263736263734
+0.0,Full-time,Unknown,Bachelor,Business,Unknown,Technology,1510.989010989011
+0.0,Full-time,Qatar,Unknown,Business,Assistant,Education,1682.6923076923074
+3.0,Full-time,Unknown,Bachelor,Business,Unknown,Other,1373.6263736263734
+1.0,Full-time,Unknown,Bachelor,Business,Unknown,Other,1236.263736263736
+1.0,Full-time,Unknown,Unknown,Other,Unknown,Healthcare,892.8571428571428
+0.0,Full-time,Unknown,Unknown,Business,Junior,Manufacturing,618.131868131868
+0.0,Full-time,Unknown,College,Other,Unknown,Other,755.4945054945055
+3.0,Full-time,Unknown,High School,Other,Unknown,Manufacturing,1167.5824175824175
+2.0,Full-time,UAE,Unknown,Other,Unknown,Retail,681.198910081744
+0.0,Full-time,Unknown,Unknown,Other,Unknown,Technology,1648.3516483516482
+2.0,Full-time,Unknown,Unknown,Other,Unknown,Manufacturing,961.5384615384614
+15.0,Full-time,Unknown,Bachelor,Real Estate & Construction,Senior,Construction,8241.758241758242
+5.0,Unknown,Unknown,Unknown,Business,Junior,Other,1167.5824175824175
+0.0,Full-time,Unknown,High School,Other,Unknown,Other,1236.263736263736
+3.0,Full-time,Unknown,Unknown,Business,Unknown,Construction,2266.4835164835163
+3.0,Full-time,Unknown,Bachelor,Other,Executive,Other,1373.6263736263734
+3.0,Unknown,Unknown,Unknown,Other,Senior,Other,1785.7142857142856
+0.0,Full-time,Unknown,Unknown,Other,Lead,Retail,1167.5824175824175
+5.0,Full-time,Unknown,Unknown,Business,Unknown,Other,1648.3516483516482
+2.0,Full-time,Unknown,Unknown,Sales & Marketing,Unknown,Other,961.5384615384614
+3.0,Full-time,Unknown,Unknown,Business,Unknown,Construction,2953.296703296703
+0.0,Full-time,Unknown,Unknown,Business,Unknown,Retail,1167.5824175824175
+1.0,Full-time,Unknown,Unknown,Sales & Marketing,Unknown,Retail,2472.527472527472
+3.0,Full-time,Unknown,Diploma,Business,Assistant,Other,1236.263736263736
+2.0,Full-time,Unknown,Unknown,Business,Assistant,Other,961.5384615384614
+3.0,Full-time,Unknown,Bachelor,Finance & Accounting,Unknown,Other,686.8131868131867
+1.0,Full-time,Unknown,Unknown,Other,Senior,Hospitality,755.4945054945055
+1.0,Full-time,UAE,Unknown,Business,Junior,Services,408.71934604904635
+5.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Other,1294.2779291553136
+2.0,Full-time,UAE,Unknown,Business,Assistant,Construction,858.3106267029974
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Executive,Other,1362.397820163488
+0.0,Full-time,UAE,Unknown,Business,Executive,Retail,817.4386920980927
+0.0,Full-time,UAE,Unknown,Other,Manager,Other,1089.9182561307903
+2.0,Full-time,UAE,Unknown,Other,Unknown,Retail,722.0708446866486
+1.0,Full-time,Saudi Arabia,Unknown,Other,Executive,Technology,1907.356948228883
+2.0,Full-time,UAE,Unknown,Other,Manager,Retail,1021.7983651226159
+0.0,Full-time,UAE,Bachelor,Other,Unknown,Other,1362.397820163488
+1.0,Full-time,UAE,Unknown,Business,Senior,Other,749.3188010899183
+5.0,Full-time,UAE,Diploma,Business,Senior,Other,681.198910081744
+0.0,Part-time,UAE,Unknown,Other,Junior,Hospitality,694.8228882833788
+2.0,Full-time,UAE,Diploma,Real Estate & Construction,Unknown,Advertising,517.7111716621254
+2.0,Full-time,UAE,Unknown,Business,Junior,Other,1089.9182561307903
+3.0,Full-time,UAE,High School,Education & Teaching,Lead,Education,817.4386920980927
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Executive,Other,681.198910081744
+1.0,Full-time,UAE,High School,IT & Computer Science,Unknown,Other,708.4468664850137
+0.0,Full-time,UAE,Bachelor,Other,Unknown,Other,585.8310626702997
+0.0,Full-time,UAE,Unknown,Other,Senior,Retail,2179.8365122615805
+2.0,Full-time,UAE,Diploma,Other,Unknown,Advertising,572.2070844686649
+0.0,Full-time,UAE,Unknown,Other,Senior,Other,1130.790190735695
+2.0,Full-time,UAE,Unknown,Business,Unknown,Retail,749.3188010899183
+3.0,Part-time,UAE,Unknown,Other,Unknown,Education,1498.6376021798367
+2.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Other,640.3269754768393
+0.0,Full-time,UAE,Unknown,Other,Junior,Retail,1089.9182561307903
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Executive,Technology,1362.397820163488
+5.0,Full-time,UAE,Unknown,Other,Unknown,Other,1498.6376021798367
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Junior,Real Estate,2997.2752043596734
+3.0,Full-time,UAE,High School,Other,Unknown,Retail,1021.7983651226159
+10.0,Full-time,UAE,Unknown,Other,Lead,Real Estate,1634.8773841961854
+2.0,Full-time,UAE,Bachelor,Business,Lead,Other,681.198910081744
+4.0,Unknown,Unknown,Unknown,Other,Executive,Other,1294.2779291553136
+2.0,Full-time,UAE,Bachelor,IT & Computer Science,Junior,Healthcare,1294.2779291553136
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,953.6784741144415
+2.0,Full-time,UAE,High School,IT & Computer Science,Unknown,Advertising,585.8310626702997
+2.0,Full-time,UAE,Bachelor,Other,Unknown,Education,1498.6376021798367
+1.0,Full-time,UAE,Unknown,Other,Executive,Retail,817.4386920980927
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,817.4386920980927
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,681.198910081744
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Other,461.0354223433243
+3.0,Full-time,UAE,Unknown,Business,Senior,Other,1634.8773841961854
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,613.0790190735695
+2.0,Full-time,UAE,Unknown,Sales & Marketing,Assistant,Manufacturing,2043.5967302452318
+5.0,Unknown,Unknown,Unknown,Other,Senior,Other,1907.356948228883
+3.0,Full-time,UAE,High School,Other,Unknown,Manufacturing,762.9427792915532
+5.0,Full-time,UAE,Unknown,Sales & Marketing,Executive,Healthcare,1226.158038147139
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Other,490.46321525885566
+2.0,Full-time,UAE,Bachelor,IT & Computer Science,Unknown,Education,885.5585831062671
+5.0,Full-time,UAE,Unknown,Other,Unknown,Construction,367.8474114441417
+1.0,Full-time,UAE,Diploma,IT & Computer Science,Unknown,Other,681.198910081744
+1.0,Full-time,Unknown,Unknown,Other,Unknown,Services,817.4386920980927
+0.0,Full-time,UAE,Unknown,Other,Assistant,Healthcare,953.6784741144415
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Real Estate,817.4386920980927
+2.0,Full-time,UAE,Unknown,Business,Unknown,Real Estate,885.5585831062671
+0.0,Full-time,UAE,Unknown,Healthcare & Nursing,Unknown,Healthcare,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Business,Assistant,Other,681.198910081744
+2.0,Full-time,UAE,Unknown,Other,Executive,Other,1226.158038147139
+2.0,Full-time,UAE,Bachelor,Real Estate & Construction,Unknown,Real Estate,10899.182561307904
+1.0,Full-time,UAE,Unknown,Other,Unknown,Tourism,817.4386920980927
+2.0,Full-time,UAE,Bachelor,Business,Mid,Retail,1089.9182561307903
+3.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,2452.316076294278
+2.0,Full-time,UAE,Unknown,Other,Executive,Other,613.0790190735695
+0.0,Full-time,UAE,Unknown,Other,Junior,Retail,885.5585831062671
+3.0,Full-time,UAE,Diploma,Engineering & Technology,Unknown,Manufacturing,1021.7983651226159
+0.0,Full-time,UAE,Bachelor,Sales & Marketing,Executive,Other,681.198910081744
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,1089.9182561307903
+2.0,Full-time,UAE,Unknown,Other,Unknown,Other,463.2152588555859
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Services,817.4386920980927
+2.0,Unknown,Unknown,Unknown,Other,Executive,Other,885.5585831062671
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Junior,Real Estate,1907.356948228883
+2.0,Full-time,UAE,Bachelor,Business,Executive,Tourism,817.4386920980927
+0.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,2179.8365122615805
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,681.198910081744
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,953.6784741144415
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,817.4386920980927
+1.0,Full-time,UAE,Unknown,Business,Executive,Other,1498.6376021798367
+2.0,Full-time,Unknown,High School,IT & Computer Science,Manager,Other,681.198910081744
+2.0,Full-time,UAE,Bachelor,Other,Unknown,Manufacturing,762.9427792915532
+2.0,Full-time,UAE,Bachelor,Other,Senior,Retail,613.0790190735695
+5.0,Full-time,UAE,Unknown,Other,Senior,Manufacturing,544.9591280653951
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Assistant,Construction,1089.9182561307903
+1.0,Full-time,UAE,Bachelor/Master,Business,Unknown,Banking,926.4305177111718
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Technology,1089.9182561307903
+3.0,Full-time,UAE,Bachelor,Other,Unknown,Real Estate,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Other,Manager,Education,817.4386920980927
+1.0,Full-time,UAE,Unknown,Other,Lead,Finance,681.198910081744
+2.0,Full-time,UAE,Diploma,Healthcare & Nursing,Executive,Pharmaceuticals,1771.1171662125341
+1.0,Full-time,UAE,Unknown,Healthcare & Nursing,Senior,Healthcare,1498.6376021798367
+2.0,Full-time,UAE,Bachelor,Real Estate & Construction,Trainer,Education,885.5585831062671
+1.0,Full-time,UAE,Unknown,Other,Senior,Entertainment,1362.397820163488
+1.0,Part-time,UAE,Unknown,Sales & Marketing,Executive,Healthcare,544.9591280653951
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Technology,1226.158038147139
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Manufacturing,476.83923705722077
+0.0,Full-time,UAE,Unknown,Other,Lead,Other,613.0790190735695
+0.0,Contract,UAE,Unknown,Sales & Marketing,Unknown,Retail,1021.7983651226159
+0.0,Unknown,Unknown,Unknown,Other,Executive,Other,2043.5967302452318
+1.0,Full-time,UAE,Bachelor,Real Estate & Construction,Unknown,Real Estate,3542.2343324250683
+2.0,Full-time,UAE,Unknown,Other,Executive,Technology,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Other,Executive,Retail,681.198910081744
+0.0,Full-time,UAE,Bachelor,Business,Executive,Technology,1294.2779291553136
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,6130.790190735695
+2.0,Full-time,UAE,Bachelor,Business,Manager,Other,1294.2779291553136
+0.0,Full-time,UAE,Unknown,Other,Unknown,Other,953.6784741144415
+3.0,Full-time,UAE,Unknown,Other,Executive,Retail,681.198910081744
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Technology,2724.795640326976
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,2179.8365122615805
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,2179.8365122615805
+5.0,Full-time,UAE,Unknown,Business,Executive,Construction,1771.1171662125341
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Executive,Manufacturing,681.198910081744
+5.0,Full-time,UAE,Unknown,Engineering & Technology,Unknown,Other,544.9591280653951
+1.0,Full-time,UAE,Bachelor,Other,Unknown,Banking,1021.7983651226159
+4.0,Full-time,UAE,High School,Food & Beverage,Unknown,Hospitality,681.198910081744
+3.0,Full-time,UAE,Unknown,Other,Unknown,Other,544.9591280653951
+2.0,Full-time,UAE,Unknown,Business,Senior,Cosmetics,1362.397820163488
+0.0,Full-time,UAE,Unknown,Other,Manager,Other,2043.5967302452318
+3.0,Full-time,UAE,High School,IT & Computer Science,Senior,Services,1226.158038147139
+2.0,Full-time,UAE,Unknown,Other,Unknown,Retail,817.4386920980927
+0.0,Full-time,UAE,Bachelor,Other,Unknown,Real Estate,1362.397820163488
+2.0,Full-time,UAE,High School,IT & Computer Science,Assistant,Other,408.71934604904635
+2.0,Full-time,UAE,Bachelor,IT & Computer Science,Manager,Finance,1498.6376021798367
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Manufacturing,885.5585831062671
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Real Estate,2452.316076294278
+3.0,Full-time,Unknown,Bachelor,Other,Executive,Human Resources,1771.1171662125341
+2.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Hospitality,544.9591280653951
+2.0,Full-time,UAE,Diploma,Business,Unknown,Hospitality,871.9346049046322
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,1089.9182561307903
+1.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Finance,953.6784741144415
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Manager,Other,1362.397820163488
+0.0,Full-time,UAE,Unknown,Business,Executive,Other,817.4386920980927
+0.0,Full-time,UAE,Unknown,Other,Unknown,Real Estate,476.83923705722077
+1.0,Full-time,UAE,Unknown,Business,Manager,Retail,1907.356948228883
+3.0,Unknown,Unknown,Unknown,Other,Executive,Other,3814.713896457766
+0.0,Full-time,UAE,Unknown,Other,Senior,Other,681.198910081744
+2.0,Full-time,UAE,Bachelor,Real Estate & Construction,Manager,Hospitality,1907.356948228883
+2.0,Full-time,UAE,Unknown,Other,Lead,Ecommerce,953.6784741144415
+0.0,Full-time,UAE,Unknown,Business,Unknown,Retail,544.9591280653951
+0.0,Full-time,UAE,Unknown,Other,Unknown,Other,422.34332425068123
+3.0,Full-time,UAE,Bachelor,IT & Computer Science,Unknown,Retail,953.6784741144415
+2.0,Full-time,UAE,High School,Other,Unknown,Advertising,572.2070844686649
+2.0,Full-time,UAE,Unknown,Other,Assistant,Food & Beverage/Beauty,783.3787465940055
+1.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Retail,613.0790190735695
+2.0,Unknown,Unknown,Unknown,IT & Computer Science,Senior,Other,953.6784741144415
+0.0,Full-time,UAE,Unknown,Other,Assistant,Other,408.71934604904635
+1.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Food & Beverage,613.0790190735695
+1.0,Full-time,UAE,Bachelor,Other,Executive,Finance,1226.158038147139
+2.0,Temporary,UAE,College,Other,Unknown,Other,40.87193460490464
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Technology,681.198910081744
+0.0,Full-time,Europe,Unknown,Food & Beverage,Manager,Hospitality,5585.8310626703005
+2.0,Full-time,UAE,Bachelor,Other,Unknown,Real Estate,2724.795640326976
+1.0,Full-time,UAE,Bachelor,Business,Intern,Other,544.9591280653951
+1.0,Full-time,UAE,Unknown,Other,Junior,Food & Beverage,681.198910081744
+5.0,Full-time,UAE,Unknown,Real Estate & Construction,Manager,Real Estate,3678.4741144414174
+1.0,Full-time,UAE,Unknown,Business,Manager,Technology,544.9591280653951
+1.0,Full-time,UAE,Diploma,Other,Executive,Finance,885.5585831062671
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,2111.716621253406
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Manager,Construction,2452.316076294278
+0.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Senior,Healthcare,1362.397820163488
+2.0,Full-time,UAE,High School,Healthcare & Nursing,Unknown,Healthcare,885.5585831062671
+3.0,Full-time,UAE,Unknown,Other,Senior,Travel,953.6784741144415
+0.0,Full-time,UAE,Diploma,Other,Executive,Retail,817.4386920980927
+5.0,Full-time,UAE,Unknown,Other,Lead,Other,749.3188010899183
+2.0,Full-time,UAE,Bachelor,Finance & Accounting,Junior,Other,749.3188010899183
+5.0,Full-time,UAE,Unknown,Business,Lead,Manufacturing,749.3188010899183
+5.0,Full-time,UAE,Bachelor,Business,Unknown,Education,1021.7983651226159
+2.0,Full-time,UAE,Unknown,Other,Unknown,Other,681.198910081744
+0.0,Full-time,UAE,Unknown,Other,Junior,Other,681.198910081744
+5.0,Full-time,UAE,Unknown,Business,Unknown,Logistics,3678.4741144414174
+2.0,Full-time,UAE,Unknown,Food & Beverage,Senior,Food & Beverage,544.9591280653951
+2.0,Full-time,UAE,Unknown,Other,Assistant,Other,449.591280653951
+1.0,Full-time,UAE,Unknown,Business,Manager,Other,1907.356948228883
+4.0,Full-time,UAE,Bachelor,Education & Teaching,Unknown,Education,953.6784741144415
+0.0,Full-time,Unknown,Bachelor,Healthcare & Nursing,Junior,Healthcare,817.4386920980927
+2.0,Full-time,UAE,Bachelor,Business,Executive,Education,1089.9182561307903
+3.0,Full-time,UAE,Bachelor/Master,Other,Unknown,Other,2043.5967302452318
+2.0,Full-time,Unknown,Bachelor,Education & Teaching,Unknown,Education,1634.8773841961854
+2.0,Full-time,UAE,Unknown,Other,Unknown,Other,449.591280653951
+1.0,Full-time,UAE,Bachelor,Education & Teaching,Unknown,Education,1021.7983651226159
+4.0,Full-time,UAE,Bachelor/Master,Other,Unknown,Education,953.6784741144415
+0.0,Full-time,UAE,Unknown,Business,Manager,Other,10490.463215258857
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Executive,Technology,6811.989100817439
+1.0,Full-time,UAE,Diploma,Other,Unknown,Manufacturing,953.6784741144415
+2.0,Full-time,UAE,High School,Other,Unknown,Food & Beverage,613.0790190735695
+1.0,Full-time,UAE,Diploma,Other,Unknown,Manufacturing,953.6784741144415
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Education,1362.397820163488
+3.0,Full-time,UAE,Bachelor,Business,Unknown,Other,1362.397820163488
+2.0,Full-time,UAE,Bachelor,Other,Unknown,Finance,817.4386920980927
+0.0,Full-time,UAE,Unknown,Business,Assistant,Other,613.0790190735695
+3.0,Full-time,UAE,Bachelor,Other,Executive,Other,1771.1171662125341
+0.0,Full-time,UAE,Unknown,Other,Assistant,Retail,544.9591280653951
+0.0,Full-time,UAE,Bachelor,Education & Teaching,Unknown,Education,749.3188010899183
+0.0,Full-time,UAE,Unknown,Other,Unknown,Other,817.4386920980927
+1.0,Full-time,UAE,Unknown,Other,Executive,Other,817.4386920980927
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,544.9591280653951
+0.0,Full-time,UAE,Unknown,Other,Junior,Healthcare,2997.2752043596734
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Manufacturing,544.9591280653951
+0.0,Full-time,UAE,Unknown,Education & Teaching,Junior,Education,1634.8773841961854
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Manufacturing,490.46321525885566
+0.0,Full-time,UAE,Unknown,Other,Unknown,Manufacturing,1221.3896457765668
+2.0,Full-time,Unknown,Bachelor,Healthcare & Nursing,Unknown,Healthcare,3748.0699364214356
+0.0,Contract,UAE,Unknown,Other,Unknown,Other,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Other,Senior,Manufacturing,749.3188010899183
+2.0,Full-time,Unknown,Bachelor,Healthcare & Nursing,Unknown,Healthcare,3748.0699364214356
+0.0,Full-time,UAE,Unknown,Business,Junior,Other,395.09536784741147
+0.0,Full-time,UAE,Unknown,Other,Junior,Hospitality,749.3188010899183
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,613.0790190735695
+5.0,Full-time,UAE,Bachelor,Business,Senior,Other,544.9591280653951
+5.0,Unknown,Unknown,Unknown,IT & Computer Science,Senior,Other,1498.6376021798367
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Other,953.6784741144415
+2.0,Full-time,UAE,Diploma,Other,Unknown,Retail,722.0708446866486
+3.0,Full-time,UAE,Bachelor,Business,Mid,Finance,817.4386920980927
+1.0,Full-time,UAE,Unknown,Business,Unknown,Retail,408.71934604904635
+1.0,Full-time,UAE,Unknown,Other,Junior,Retail,408.71934604904635
+2.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,2384.1961852861036
+0.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Assistant,Healthcare,2724.795640326976
+1.0,Full-time,UAE,Unknown,Other,Assistant,Other,817.4386920980927
+1.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Hospitality,354.22343324250687
+2.0,Contract,UAE,Unknown,Other,Assistant,Retail,817.4386920980927
+1.0,Full-time,UAE,Bachelor,Business,Unknown,Healthcare,681.198910081744
+0.0,Full-time,UAE,Unknown,Business,Manager,Other,681.198910081744
+0.0,Full-time,UAE,Unknown,Business,Manager,Other,1362.397820163488
+3.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Construction,476.83923705722077
+1.0,Full-time,UAE,Unknown,Other,Assistant,Other,585.8310626702997
+2.0,Full-time,UAE,Unknown,Other,Executive,Other,1089.9182561307903
+2.0,Full-time,UAE,Unknown,Business,Unknown,Manufacturing,953.6784741144415
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Other,749.3188010899183
+1.0,Full-time,UAE,Unknown,Other,Assistant,Retail,953.6784741144415
+0.0,Full-time,UAE,Bachelor,Business,Executive,Retail,817.4386920980927
+1.0,Contract,UAE,Unknown,Other,Junior,Other,544.9591280653951
+2.0,Full-time,UAE,Unknown,Other,Executive,Retail,749.3188010899183
+3.0,Full-time,UAE,Bachelor,Other,Executive,Other,885.5585831062671
+2.0,Full-time,UAE,High School,Food & Beverage,Unknown,Food & Beverage,692.0980926430518
+3.0,Full-time,UAE,Unknown,Other,Lead,Manufacturing,817.4386920980927
+2.0,Full-time,UAE,Unknown,Business,Executive,Manufacturing,544.9591280653951
+0.0,Full-time,UAE,Unknown,Business,Assistant,Other,817.4386920980927
+3.0,Full-time,UAE,Bachelor,Business,Unknown,Manufacturing,817.4386920980927
+0.0,Full-time,UAE,Unknown,Other,Unknown,Hospitality,544.9591280653951
+4.0,Full-time,UAE,Bachelor,Other,Unknown,Other,749.3188010899183
+0.0,Full-time,UAE,Unknown,Healthcare & Nursing,Senior,Healthcare,1634.8773841961854
+2.0,Full-time,Unknown,Bachelor,Healthcare & Nursing,Unknown,Healthcare,3748.0699364214356
+2.0,Full-time,UAE,Unknown,Business,Assistant,Other,681.198910081744
+3.0,Full-time,UAE,High School,Education & Teaching,Lead,Other,817.4386920980927
+0.0,Full-time,UAE,Unknown,Healthcare & Nursing,Unknown,Healthcare,817.4386920980927
+0.0,Full-time,UAE,Unknown,Other,Junior,Other,1362.397820163488
+2.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1771.1171662125341
+2.0,Full-time,UAE,Unknown,Other,Executive,Retail,953.6784741144415
+3.0,Full-time,UAE,Unknown,Other,Unknown,Construction,367.8474114441417
+1.0,Full-time,UAE,Unknown,Other,Unknown,Retail,953.6784741144415
+0.0,Full-time,UAE,Diploma,Real Estate & Construction,Senior,Manufacturing,408.71934604904635
+0.0,Full-time,UAE,Bachelor,Real Estate & Construction,Senior,Construction,817.4386920980927
+1.0,Full-time,UAE,Unknown,Other,Unknown,Real Estate,1771.1171662125341
+0.0,Freelance,Unknown,Unknown,Other,Manager,Other,136.23978201634878
+1.0,Full-time,UAE,Bachelor,Engineering & Technology,Unknown,Other,1362.397820163488
+0.0,Full-time,UAE,High School,Other,Unknown,Services,749.3188010899183
+2.0,Full-time,UAE,Unknown,Other,Unknown,Other,817.4386920980927
+0.0,Full-time,UAE,Unknown,Food & Beverage,Junior,Food & Beverage,613.0790190735695
+0.0,Full-time,UAE,High School,IT & Computer Science,Assistant,Healthcare,817.4386920980927
+0.0,Part-time,UAE,Unknown,IT & Computer Science,Lead,Retail,35.42234332425068
+0.0,Unknown,Unknown,Unknown,Other,Lead,Other,544.9591280653951
+1.0,Full-time,UAE,Unknown,Business,Assistant,Real Estate,1158.0381471389646
+0.0,Full-time,UAE,Unknown,Food & Beverage,Junior,Hospitality,1089.9182561307903
+3.0,Full-time,UAE,Unknown,Other,Manager,Food & Beverage,2724.795640326976
+0.0,Full-time,UAE,Unknown,Business,Senior,Energy,2997.2752043596734
+1.0,Full-time,UAE,Unknown,Business,Executive,Other,953.6784741144415
+0.0,Full-time,UAE,Unknown,Other,Assistant,Other,817.4386920980927
+2.0,Full-time,UAE,Unknown,Other,Unknown,Other,681.198910081744
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Education,1362.397820163488
+2.0,Full-time,UAE,Unknown,Other,Unknown,Construction,885.5585831062671
+1.0,Full-time,UAE,Unknown,Other,Executive,Finance,817.4386920980927
+1.0,Contract,UAE,Diploma,Healthcare & Nursing,Unknown,Healthcare,476.83923705722077
+0.0,Full-time,UAE,Unknown,Other,Unknown,Retail,919.6185286103544
+12.0,Full-time,UAE,Unknown,Other,Trainer,Education,2997.2752043596734
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Finance,4359.673024523161
+3.0,Full-time,UAE,Diploma,Food & Beverage,Unknown,Other,681.198910081744
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Manager,Real Estate,1294.2779291553136
+3.0,Full-time,UAE,Unknown,Real Estate & Construction,Manager,Construction,953.6784741144415
+3.0,Full-time,UAE,Unknown,Other,Junior,Other,1771.1171662125341
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Services,735.6948228882834
+3.0,Full-time,Unknown,Unknown,Other,Senior,Retail,1362.397820163488
+1.0,Full-time,UAE,Unknown,Other,Unknown,Hospitality,544.9591280653951
+3.0,Full-time,UAE,Unknown,Other,Junior,Retail,953.6784741144415
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Real Estate,626.7029972752044
+5.0,Full-time,UAE,Unknown,Business,Manager,Construction,5858.310626702998
+0.0,Full-time,UAE,Unknown,Other,Junior,Food & Beverage,749.3188010899183
+1.0,Unknown,Unknown,Unknown,IT & Computer Science,Executive,Other,817.4386920980927
+0.0,Full-time,UAE,Unknown,Other,Executive,Construction,749.3188010899183
+2.0,Full-time,UAE,Diploma,Other,Unknown,Other,681.198910081744
+0.0,Full-time,UAE,Unknown,Other,Senior,Real Estate,1089.9182561307903
+3.0,Unknown,Unknown,Unknown,IT & Computer Science,Senior,Other,613.0790190735695
+0.0,Full-time,UAE,Unknown,Other,Unknown,Other,749.3188010899183
+3.0,Full-time,UAE,Bachelor,IT & Computer Science,Executive,Technology,1089.9182561307903
+5.0,Full-time,UAE,Bachelor,Business,Unknown,Other,4495.91280653951
+2.0,Full-time,UAE,Bachelor,Other,Unknown,Construction,817.4386920980927
+1.0,Full-time,UAE,Bachelor,Finance & Accounting,Unknown,Other,1089.9182561307903
+2.0,Part-time,UAE,Unknown,Other,Assistant,Retail,32.69754768392371
+1.0,Full-time,UAE,Bachelor,Business,Unknown,Other,1021.7983651226159
+1.0,Full-time,UAE,Unknown,Other,Unknown,Other,749.3188010899183
+1.0,Full-time,UAE,Unknown,Business,Senior,Technology,408.71934604904635
+30.0,Full-time,UAE,Diploma,Business,Unknown,Technology,2724.795640326976
+2.0,Full-time,UAE,Bachelor,Business,Assistant,Other,2179.8365122615805
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,613.0790190735695
+5.0,Full-time,UAE,Unknown,Other,Assistant,Construction,1158.0381471389646
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Other,2452.316076294278
+4.0,Full-time,UAE,Unknown,Other,Senior,Construction,953.6784741144415
+1.0,Full-time,UAE,Unknown,Business,Unknown,Other,1021.7983651226159
+5.0,Unknown,Unknown,Unknown,Other,Senior,Other,1089.9182561307903
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Other,381.4713896457766
+6.0,Full-time,UAE,Unknown,Business,Manager,Travel,4768.392370572207
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Real Estate,408.71934604904635
+5.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Construction,1226.158038147139
+3.0,Full-time,UAE,Bachelor,Business,Unknown,Other,1634.8773841961854
+5.0,Full-time,Unknown,Bachelor,Other,Manager,Other,2316.0762942779293
+0.0,Full-time,UAE,Unknown,Business,Executive,Other,1021.7983651226159
+1.0,Full-time,UAE,Bachelor,Business,Executive,Technology,1158.0381471389646
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Other,749.3188010899183
+2.0,Full-time,UAE,Bachelor,Other,Assistant,Other,749.3188010899183
+1.0,Full-time,UAE,High School,Other,Assistant,Other,1089.9182561307903
+1.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Retail,858.3106267029974
+0.0,Full-time,UAE,Unknown,Business,Lead,Other,681.198910081744
+2.0,Unknown,Unknown,Unknown,Other,Senior,Other,1089.9182561307903
+5.0,Full-time,UAE,High School,Business,Executive,Other,1226.158038147139
+1.0,Full-time,UAE,Bachelor,Business,Unknown,Other,1021.7983651226159
+4.0,Full-time,UAE,Unknown,Other,Manager,Hospitality,953.6784741144415
+0.0,Full-time,UAE,Unknown,Other,Assistant,Other,613.0790190735695
+10.0,Full-time,UAE,Unknown,Real Estate & Construction,Manager,Real Estate,2997.2752043596734
+1.0,Full-time,UAE,College,Other,Unknown,Logistics,1158.0381471389646
+2.0,Full-time,UAE,Unknown,Other,Unknown,Travel,1498.6376021798367
+1.0,Full-time,UAE,Bachelor,Finance & Accounting,Unknown,Other,1158.0381471389646
+0.0,Full-time,UAE,Unknown,Business,Junior,Hospitality,681.198910081744
+0.0,Full-time,UAE,Unknown,Business,Manager,Retail,953.6784741144415
+5.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,1362.397820163488
+0.0,Full-time,UAE,Unknown,Other,Assistant,Other,817.4386920980927
+1.0,Full-time,UAE,High School,Other,Unknown,Other,681.198910081744
+10.0,Full-time,UAE,Unknown,Other,Manager,Construction,1362.397820163488
+10.0,Full-time,UAE,Bachelor,Business,Manager,Technology,3678.4741144414174
+1.0,Full-time,UAE,Bachelor,Business,Unknown,Construction,1158.0381471389646
+2.0,Full-time,UAE,Unknown,Other,Unknown,Hospitality,517.7111716621254
+1.0,Full-time,UAE,Unknown,Other,Senior,Other,885.5585831062671
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Executive,Education,517.7111716621254
+1.0,Full-time,Unknown,Unknown,Other,Unknown,Other,1907.356948228883
+0.0,Full-time,UAE,Unknown,Business,Manager,Retail,953.6784741144415
+5.0,Full-time,UAE,Unknown,Business,Executive,Other,2724.795640326976
+3.0,Full-time,UAE,Bachelor,Business,Mid,Other,1362.397820163488
+1.0,Full-time,UAE,Bachelor,Other,Senior,Other,790.1907356948229
+1.0,Full-time,UAE,Unknown,Business,Unknown,Technology,953.6784741144415
+1.0,Full-time,UAE,Bachelor,Other,Unknown,Manufacturing,1634.8773841961854
+10.0,Full-time,UAE,Bachelor,Business,Manager,Other,5449.591280653952
+1.0,Full-time,UAE,Unknown,Business,Unknown,Manufacturing,681.198910081744
+0.0,Unknown,Unknown,Unknown,IT & Computer Science,Executive,Other,1634.8773841961854
+0.0,Full-time,UAE,Unknown,Other,Junior,Real Estate,885.5585831062671
+1.0,Full-time,UAE,Unknown,Business,Executive,Other,681.198910081744
+5.0,Full-time,Iraq/Sudan,Bachelor,Finance & Accounting,Senior,Other,1021.7983651226159
+6.0,Full-time,UAE,Bachelor,IT & Computer Science,Senior,Other,3027.5204359673025
+3.0,Full-time,UAE,Unknown,Business,Unknown,Manufacturing,817.4386920980927
+1.0,Full-time,UAE,Bachelor,Business,Unknown,Other,681.198910081744
+0.0,Full-time,UAE,Unknown,Business,Unknown,Retail,1226.158038147139
+0.0,Full-time,UAE,Unknown,Other,Senior,Construction,1907.356948228883
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,544.9591280653951
+1.0,Full-time,UAE,Unknown,Business,Junior,Other,953.6784741144415
+0.0,Full-time,UAE,Unknown,Business,Junior,Manufacturing,613.0790190735695
+5.0,Full-time,UAE,Unknown,Business,Assistant,Other,2724.795640326976
+1.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Education,1226.158038147139
+2.0,Full-time,UAE,Diploma,Real Estate & Construction,Unknown,Advertising,517.7111716621254
+3.0,Full-time,UAE,Unknown,Other,Executive,Retail,2043.5967302452318
+1.0,Full-time,UAE,Unknown,Business,Assistant,Other,640.3269754768393
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Other,517.7111716621254
+5.0,Full-time,UAE,Unknown,Business,Assistant,Other,2724.795640326976
+4.0,Full-time,UAE,Unknown,Business,Unknown,Logistics,1975.4768392370574
+1.0,Full-time,UAE,High School,Business,Unknown,Retail,749.3188010899183
+1.0,Full-time,UAE,Unknown,Business,Manager,Services,749.3188010899183
+1.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1634.8773841961854
+3.0,Full-time,UAE,Bachelor,Other,Lead,Retail,2861.0354223433246
+0.0,Full-time,UAE,Unknown,Other,Unknown,Hospitality,681.198910081744
+0.0,Full-time,UAE,Unknown,Business,Unknown,Manufacturing,953.6784741144415
+0.0,Full-time,UAE,Unknown,Other,Manager,Retail,1498.6376021798367
+0.0,Full-time,UAE,Bachelor,IT & Computer Science,Senior,Technology,681.198910081744
+0.0,Full-time,UAE,Unknown,Other,Executive,Other,681.198910081744
+0.0,Full-time,UAE,Unknown,Business,Unknown,Other,681.198910081744
+0.0,Full-time,UAE,High School,Sales & Marketing,Unknown,Retail,681.198910081744
+0.0,Full-time,UAE,Unknown,Business,Assistant,Other,544.9591280653951
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Other,490.46321525885566
+2.0,Full-time,UAE,Unknown,Sales & Marketing,Manager,Retail,1430.5177111716623
+1.0,Temporary,UAE,Unknown,Business,Junior,Hospitality,953.6784741144415
+3.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Food & Beverage,871.9346049046322
+0.0,Full-time,UAE,Unknown,Other,Manager,Construction,613.0790190735695
+1.0,Full-time,UAE,Bachelor,Other,Junior,Retail,817.4386920980927
+0.0,Full-time,UAE,Unknown,Other,Senior,Construction,681.198910081744
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Manager,Technology,3269.754768392371
+0.0,Full-time,UAE,Unknown,Business,Unknown,Other,408.71934604904635
+2.0,Full-time,UAE,Bachelor,Business,Executive,Other,1771.1171662125341
+0.0,Full-time,UAE,Unknown,Business,Manager,Real Estate,885.5585831062671
+1.0,Full-time,UAE,Unknown,Other,Unknown,Retail,953.6784741144415
+2.0,Full-time,UAE,Unknown,Other,Senior,Advertising,1634.8773841961854
+0.0,Full-time,UAE,Unknown,Business,Executive,Retail,953.6784741144415
+0.0,Full-time,UAE,Unknown,Healthcare & Nursing,Junior,Healthcare,1362.397820163488
+6.0,Full-time,UAE,Bachelor,Real Estate & Construction,Unknown,Other,2179.8365122615805
+0.0,Full-time,UAE,Unknown,Business,Unknown,Other,681.198910081744
+1.0,Full-time,UAE,Unknown,Other,Executive,Retail,1226.158038147139
+2.0,Full-time,UAE,Bachelor,Business,Senior,Manufacturing,885.5585831062671
+0.0,Full-time,UAE,Unknown,Business,Unknown,Manufacturing,1498.6376021798367
+0.0,Contract,UAE,Unknown,Sales & Marketing,Unknown,Retail,1089.9182561307903
+2.0,Full-time,UAE,Unknown,Business,Unknown,Technology,1158.0381471389646
+1.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1089.9182561307903
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,490.46321525885566
+2.0,Full-time,UAE,Unknown,Other,Senior,Other,1226.158038147139
+0.0,Full-time,UAE,Bachelor,Sales & Marketing,Manager,Other,1226.158038147139
+0.0,Full-time,UAE,Diploma,Business,Unknown,Other,681.198910081744
+3.0,Full-time,UAE,Master,Business,Executive,Other,749.3188010899183
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Other,647.1389645776568
+3.0,Full-time,UAE,Bachelor,Finance & Accounting,Unknown,Food & Beverage,1771.1171662125341
+1.0,Full-time,UAE,Unknown,Other,Unknown,Technology,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Business,Lead,Healthcare,681.198910081744
+1.0,Full-time,UAE,Unknown,Other,Junior,Technology,1362.397820163488
+0.0,Full-time,UAE,Unknown,Food & Beverage,Lead,Food & Beverage,749.3188010899183
+0.0,Full-time,UAE,Unknown,Business,Assistant,Other,817.4386920980927
+0.0,Full-time,UAE,Unknown,Business,Executive,Other,1362.397820163488
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Healthcare & Nursing,Assistant,Healthcare,2316.0762942779293
+1.0,Full-time,UAE,Unknown,Business,Assistant,Other,408.71934604904635
+0.0,Full-time,UAE,Unknown,Business,Unknown,Manufacturing,544.9591280653951
+1.0,Full-time,UAE,Bachelor,Other,Unknown,Other,408.71934604904635
+0.0,Full-time,UAE,Unknown,Business,Junior,Other,1226.158038147139
+2.0,Full-time,Unknown,Bachelor,Healthcare & Nursing,Unknown,Healthcare,3748.0699364214356
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Other,544.9591280653951
+1.0,Full-time,Egypt,Bachelor,Business,Unknown,Healthcare,7000.0
+0.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,2452.316076294278
+0.0,Full-time,Unknown,Bachelor,Other,Unknown,Technology,5000.0
+0.0,Full-time,Europe,Bachelor,Other,Unknown,Technology,5000.0
+3.0,Full-time,Unknown,Master,Other,Senior,Technology,3500.0
+3.0,Full-time,Unknown,Bachelor,IT & Computer Science,Manager,Technology,4000.0
+0.0,Full-time,MENA,Unknown,Education & Teaching,Unknown,Education,3500.0
+3.0,Full-time,Unknown,Unknown,Education & Teaching,Senior,Education,8500.0
+5.0,Full-time,Unknown,Unknown,Real Estate & Construction,Manager,Manufacturing,4750.0
+10.0,Full-time,Saudi Arabia,Unknown,Real Estate & Construction,Manager,Real Estate,10000.0
+3.0,Full-time,UAE,Unknown,Other,Manager,Logistics,12500.0
+3.0,Full-time,Unknown,Bachelor,Business,Unknown,Retail,2500.0
+0.0,Full-time,Saudi Arabia,Unknown,Other,Executive,Manufacturing,3250.0
+2.0,Full-time,Saudi Arabia,Unknown,IT & Computer Science,Unknown,Manufacturing,2250.0
+2.0,Full-time,Unknown,Bachelor,Healthcare & Nursing,Unknown,Healthcare,168755.5
+2.0,Full-time,Unknown,Bachelor,Business,Manager,Retail,7500.0
+3.0,Full-time,Unknown,Bachelor,IT & Computer Science,Executive,Other,1236.263736263736
+5.0,Full-time,Unknown,Bachelor,Business,Manager,Other,8241.758241758242
+30.0,Full-time,MENA,Unknown,Other,Junior,Hospitality,934.0659340659339
+10.0,Full-time,Unknown,Unknown,Finance & Accounting,Executive,Real Estate,13049.450549450548
+3.0,Full-time,Unknown,Unknown,Engineering & Technology,Unknown,Manufacturing,824.1758241758241
+0.0,Full-time,UAE,Bachelor/Master,Education & Teaching,Unknown,Education,1226.158038147139
+0.0,Unknown,Unknown,Unknown,Other,Assistant,Other,885.5585831062671
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Assistant,Other,817.4386920980927
+0.0,Unknown,Unknown,Unknown,Real Estate & Construction,Assistant,Other,817.4386920980927
+2.0,Full-time,UAE,Unknown,Business,Manager,Other,885.5585831062671
+0.0,Contract,UAE,Unknown,Other,Assistant,Other,544.9591280653951
+0.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Hospitality,354.22343324250687
+2.0,Full-time,UAE,Bachelor,Other,Assistant,Banking,953.6784741144415
+0.0,Full-time,UAE,Unknown,Business,Manager,Manufacturing,4495.91280653951
+2.0,Full-time,UAE,Unknown,Sales & Marketing,Executive,Retail,1634.8773841961854
+0.0,Full-time,UAE,Unknown,Other,Unknown,Other,2043.5967302452318
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Retail,953.6784741144415
+0.0,Full-time,UAE,Unknown,Other,Assistant,Other,1771.1171662125341
+2.0,Full-time,UAE,Bachelor,Other,Unknown,Healthcare,2179.8365122615805
+3.0,Full-time,UAE,Unknown,Sales & Marketing,Mid,Other,1158.0381471389646
+0.0,Full-time,UAE,Unknown,Engineering & Technology,Junior,Manufacturing,681.198910081744
+3.0,Full-time,UAE,Unknown,Business,Manager,Other,953.6784741144415
+1.0,Full-time,UAE,Unknown,Business,Manager,Other,2179.8365122615805
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,1089.9182561307903
+1.0,Full-time,UAE,Bachelor,Other,Unknown,Banking,885.5585831062671
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,613.0790190735695
+0.0,Full-time,UAE,Unknown,Other,Assistant,Travel,681.198910081744
+0.0,Full-time,UAE,Unknown,Healthcare & Nursing,Unknown,Healthcare,953.6784741144415
+2.0,Full-time,UAE,Bachelor,Real Estate & Construction,Unknown,Other,585.8310626702997
+0.0,Unknown,Unknown,Unknown,Other,Unknown,Other,817.4386920980927
+1.0,Full-time,UAE,Unknown,Other,Unknown,Retail,749.3188010899183
+0.0,Contract,UAE,Unknown,Other,Unknown,Other,1158.0381471389646
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Other,408.71934604904635
+0.0,Unknown,Unknown,Unknown,Real Estate & Construction,Assistant,Other,4468.664850136241
+1.0,Full-time,UAE,Bachelor,Real Estate & Construction,Unknown,Real Estate,681.198910081744
+4.0,Full-time,UAE,Unknown,Business,Lead,Other,504.08719346049054
+2.0,Full-time,UAE,Unknown,Other,Unknown,Other,953.6784741144415
+0.0,Full-time,UAE,Unknown,Engineering & Technology,Senior,Manufacturing,381.4713896457766
+2.0,Full-time,UAE,Unknown,Food & Beverage,Junior,Hospitality,504.08719346049054
+0.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Executive,Healthcare,1907.356948228883
+1.0,Full-time,UAE,Unknown,Business,Manager,Retail,1907.356948228883
+0.0,Full-time,UAE,Bachelor,Sales & Marketing,Executive,Retail,817.4386920980927
+2.0,Full-time,UAE,Unknown,Healthcare & Nursing,Senior,Healthcare,749.3188010899183
+5.0,Full-time,UAE,Bachelor,Other,Executive,Other,2452.316076294278
+4.0,Full-time,UAE,Bachelor,Sales & Marketing,Unknown,Food & Beverage,2452.316076294278
+0.0,Full-time,UAE,Unknown,Food & Beverage,Executive,Hospitality,2179.8365122615805
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Executive,Real Estate,1021.7983651226159
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Recreation,408.71934604904635
+2.0,Full-time,UAE,Bachelor,IT & Computer Science,Lead,Healthcare,681.198910081744
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Executive,Other,953.6784741144415
+0.0,Full-time,UAE,Unknown,Other,Lead,Finance,1362.397820163488
+2.0,Full-time,UAE,Unknown,Business,Unknown,Retail,1226.158038147139
+1.0,Full-time,UAE,Unknown,Business,Junior,Other,613.0790190735695
+0.0,Full-time,UAE,Bachelor,Finance & Accounting,Assistant,Other,681.198910081744
+1.0,Full-time,UAE,College,Education & Teaching,Unknown,Education,681.198910081744
+5.0,Full-time,UAE,Unknown,Other,Lead,Hospitality,490.46321525885566
+5.0,Unknown,Unknown,Unknown,Other,Assistant,Other,613.0790190735695
+5.0,Full-time,UAE,Unknown,Engineering & Technology,Unknown,Manufacturing,613.0790190735695
+0.0,Full-time,UAE,Bachelor,Other,Unknown,Healthcare,2247.956403269755
+0.0,Full-time,UAE,Unknown,Other,Unknown,Construction,613.0790190735695
+0.0,Full-time,UAE,Unknown,Other,Unknown,Tourism,749.3188010899183
+0.0,Full-time,UAE,Unknown,Other,Executive,Retail,749.3188010899183
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Other,749.3188010899183
+1.0,Full-time,UAE,Unknown,Other,Unknown,Retail,749.3188010899183
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Manufacturing,408.71934604904635
+0.0,Temporary,UAE,Unknown,IT & Computer Science,Unknown,Other,653.9509536784742
+4.0,Full-time,Unknown,Unknown,Business,Manager,Other,1362.397820163488
+2.0,Full-time,UAE,Diploma,Other,Unknown,Advertising,572.2070844686649
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Manufacturing,517.7111716621254
+2.0,Full-time,Unknown,Bachelor,Healthcare & Nursing,Unknown,Healthcare,3748.0699364214356
+2.0,Full-time,UAE,Diploma,Other,Unknown,Advertising,572.2070844686649
+3.0,Full-time,UAE,High School,Business,Unknown,Healthcare,953.6784741144415
+4.0,Unknown,Unknown,Unknown,IT & Computer Science,Executive,Other,1089.9182561307903
+0.0,Full-time,UAE,Bachelor,Real Estate & Construction,Senior,Real Estate,1089.9182561307903
+2.0,Full-time,UAE,High School,IT & Computer Science,Unknown,Other,585.8310626702997
+3.0,Unknown,Unknown,Unknown,Business,Assistant,Other,1498.6376021798367
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Other,544.9591280653951
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Real Estate,544.9591280653951
+0.0,Contract,UAE,Unknown,Other,Lead,Finance,1089.9182561307903
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,476.83923705722077
+2.0,Full-time,UAE,Bachelor,Business,Senior,Technology,749.3188010899183
+0.0,Full-time,UAE,Unknown,Food & Beverage,Junior,Hospitality,613.0790190735695
+0.0,Full-time,UAE,Unknown,Business,Unknown,Other,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Other,Unknown,Other,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Business,Junior,Real Estate,490.46321525885566
+2.0,Full-time,UAE,Diploma,Real Estate & Construction,Unknown,Advertising,517.7111716621254
+0.0,Full-time,UAE,Unknown,Business,Executive,Other,1294.2779291553136
+0.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Manager,Healthcare,1498.6376021798367
+0.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Food & Beverage,885.5585831062671
+0.0,Full-time,UAE,Unknown,Other,Senior,Retail,1021.7983651226159
+0.0,Full-time,UAE,Unknown,Other,Unknown,Healthcare,1021.7983651226159
+5.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Real Estate,408.71934604904635
+6.0,Full-time,UAE,Unknown,Business,Assistant,Other,1226.158038147139
+6.0,Full-time,UAE,Unknown,Other,Senior,Other,463.2152588555859
+0.0,Full-time,UAE,Unknown,Other,Senior,Other,885.5585831062671
+2.0,Full-time,UAE,Unknown,Other,Executive,Retail,817.4386920980927
+0.0,Full-time,UAE,Bachelor,Business,Junior,Other,749.3188010899183
+0.0,Full-time,UAE,Unknown,Business,Senior,Hospitality,585.8310626702997
+0.0,Full-time,Unknown,Bachelor,Finance & Accounting,Unknown,Other,1150.9536784741144
+3.0,Full-time,UAE,Unknown,Real Estate & Construction,Manager,Manufacturing,1634.8773841961854
+2.0,Full-time,UAE,Unknown,Business,Unknown,Other,1362.397820163488
+1.0,Full-time,UAE,Bachelor,Other,Unknown,Other,953.6784741144415
+2.0,Full-time,UAE,High School,Other,Unknown,Advertising,572.2070844686649
+0.0,Full-time,UAE,Unknown,Business,Lead,Retail,1362.397820163488
+3.0,Full-time,UAE,High School,Other,Unknown,Retail,613.0790190735695
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,1089.9182561307903
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Business,Trainer,Finance,1907.356948228883
+1.0,Full-time,UAE,Bachelor,Business,Unknown,Other,1021.7983651226159
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Other,681.198910081744
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,4087.1934604904636
+2.0,Full-time,UAE,Diploma,Food & Beverage,Unknown,Hospitality,1907.356948228883
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Manufacturing,544.9591280653951
+1.0,Full-time,UAE,Bachelor,Business,Unknown,Other,1226.158038147139
+0.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Hospitality,1226.158038147139
+4.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Technology,1455.9945504087195
+2.0,Full-time,UAE,Unknown,Business,Lead,Other,681.198910081744
+1.0,Full-time,UAE,Bachelor,Other,Unknown,Retail,544.9591280653951
+1.0,Full-time,UAE,Unknown,Other,Executive,Real Estate,1771.1171662125341
+2.0,Full-time,UAE,Bachelor,Other,Unknown,Real Estate,2724.795640326976
+2.0,Unknown,Unknown,Unknown,Other,Manager,Other,1226.158038147139
+0.0,Full-time,UAE,Bachelor,Other,Executive,Retail,1028.6103542234334
+3.0,Full-time,UAE,High School,IT & Computer Science,Unknown,Retail,463.2152588555859
+0.0,Full-time,UAE,Bachelor,Business,Manager,Other,6004.768392370573
+2.0,Full-time,UAE,Bachelor,Other,Unknown,Manufacturing,953.6784741144415
+1.0,Full-time,UAE,Bachelor,Other,Lead,Retail,885.5585831062671
+1.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1771.1171662125341
+0.0,Unknown,Unknown,Unknown,Other,Manager,Other,1362.397820163488
+0.0,Unknown,Unknown,Unknown,IT & Computer Science,Junior,Other,1226.158038147139
+3.0,Full-time,UAE,Bachelor,Other,Unknown,Technology,2724.795640326976
+0.0,Full-time,UAE,Unknown,Other,Unknown,Entertainment,1089.9182561307903
+2.0,Full-time,UAE,Diploma,Real Estate & Construction,Unknown,Real Estate,3678.4741144414174
+1.0,Full-time,UAE,Diploma,Healthcare & Nursing,Unknown,Healthcare,544.9591280653951
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Real Estate,1498.6376021798367
+1.0,Full-time,UAE,Master,IT & Computer Science,Manager,Real Estate,2179.8365122615805
+2.0,Full-time,UAE,Diploma,Other,Senior,Healthcare,2452.316076294278
+5.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Other,681.198910081744
+10.0,Full-time,UAE,Unknown,Business,Manager,Other,3405.9945504087195
+4.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Technology,5722.070844686649
+1.0,Full-time,UAE,Unknown,Business,Unknown,Other,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Food & Beverage,Manager,Retail,2043.5967302452318
+2.0,Full-time,UAE,Unknown,Business,Manager,Technology,2179.8365122615805
+1.0,Full-time,UAE,Unknown,Other,Executive,Retail,1362.397820163488
+0.0,Full-time,UAE,Unknown,Other,Unknown,Retail,408.71934604904635
+4.0,Full-time,UAE,Diploma,Food & Beverage,Mid,Hospitality,2997.2752043596734
+1.0,Full-time,UAE,Bachelor,Finance & Accounting,Unknown,Manufacturing,1226.158038147139
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Other,1362.397820163488
+3.0,Full-time,UAE,Bachelor,Other,Unknown,Healthcare,1634.8773841961854
+2.0,Full-time,UAE,Unknown,Other,Unknown,Food & Beverage,708.4468664850137
+0.0,Full-time,UAE,Unknown,Other,Assistant,Other,1294.2779291553136
+3.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Hospitality,1498.6376021798367
+3.0,Full-time,UAE,Unknown,Sales & Marketing,Assistant,Real Estate,4087.1934604904636
+1.0,Full-time,UAE,Unknown,Other,Executive,Other,626.7029972752044
+3.0,Full-time,UAE,Unknown,Other,Assistant,Retail,681.198910081744
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Cosmetics,1021.7983651226159
+0.0,Full-time,UAE,Unknown,Business,Manager,Other,1362.397820163488
+3.0,Full-time,Unknown,Unknown,Food & Beverage,Unknown,Hospitality,1226.158038147139
+3.0,Full-time,UAE,Unknown,Sales & Marketing,Senior,Retail,749.3188010899183
+4.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Retail,681.198910081744
+1.0,Full-time,UAE,Unknown,Other,Unknown,Retail,408.71934604904635
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Retail,953.6784741144415
+3.0,Full-time,UAE,Bachelor,Other,Unknown,Other,613.0790190735695
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,408.71934604904635
+0.0,Full-time,UAE,Unknown,Other,Junior,Retail,422.34332425068123
+3.0,Full-time,UAE,Unknown,Business,Unknown,Other,1907.356948228883
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Construction,517.7111716621254
+0.0,Full-time,UAE,Unknown,Other,Unknown,Retail,749.3188010899183
+1.0,Full-time,UAE,Bachelor,Business,Unknown,Finance,544.9591280653951
+0.0,Full-time,UAE,Unknown,Other,Junior,Hospitality,395.09536784741147
+4.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,885.5585831062671
+1.0,Full-time,UAE,Unknown,Other,Unknown,Retail,885.5585831062671
+2.0,Full-time,Egypt,Bachelor,Business,Unknown,Finance,6750.0
+4.0,Full-time,Unknown,Bachelor,Business,Mid,Education,5543.5
+3.0,Full-time,UAE,Bachelor,Other,Unknown,Hospitality,613.0790190735695
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Construction,544.9591280653951
+3.0,Full-time,Unknown,Unknown,IT & Computer Science,Lead,Technology,15000.0
+1.0,Full-time,Unknown,Unknown,Other,Unknown,Technology,3079.0
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Executive,Other,817.4386920980927
+8.0,Full-time,Unknown,Unknown,Other,Mid,Construction,12000.0
+10.0,Full-time,UAE,Bachelor,Business,Unknown,Other,12500.0
+0.0,Full-time,Saudi Arabia,Unknown,IT & Computer Science,Unknown,Services,2250.0
+0.0,Full-time,Unknown,Unknown,IT & Computer Science,Unknown,Other,2250.0
+1.0,Full-time,UAE,Diploma,Other,Unknown,Retail,653.9509536784742
+0.0,Full-time,Unknown,Unknown,Business,Executive,Other,15000.0
+0.0,Full-time,China,Doctorate,Business,Academic,Technology,50000.0
+10.0,Full-time,Unknown,Unknown,Finance & Accounting,Executive,Real Estate,587500.0
+5.0,Unknown,Unknown,Unknown,Other,Manager,Other,19000.0
+0.0,Full-time,UAE,Unknown,Business,Unknown,Other,953.6784741144415
+3.0,Full-time,UAE,College,Business,Unknown,Other,1021.7983651226159
+0.0,Full-time,UAE,Unknown,Business,Junior,Other,953.6784741144415
+1.0,Full-time,UAE,High School,Other,Junior,Other,817.4386920980927
+3.0,Full-time,UAE,Bachelor,Other,Unknown,Other,1158.0381471389646
+0.0,Full-time,UAE,Unknown,Business,Manager,Manufacturing,1498.6376021798367
+2.0,Full-time,UAE,Master,Other,Unknown,Other,953.6784741144415
+5.0,Full-time,UAE,Unknown,Business,Manager,Other,2997.2752043596734
+1.0,Full-time,UAE,Unknown,Other,Unknown,Other,817.574931880109
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Other,1089.9182561307903
+2.0,Full-time,UAE,Unknown,Other,Volunteer,Healthcare,1498.6376021798367
+10.0,Full-time,UAE,Bachelor,Food & Beverage,Manager,Food & Beverage,6130.790190735695
+2.0,Full-time,Unknown,Unknown,Business,Unknown,Technology,912.8065395095368
+3.0,Full-time,UAE,Bachelor,Business,Unknown,Manufacturing,1158.0381471389646
+0.0,Full-time,UAE,Bachelor,Other,Executive,Construction,749.3188010899183
+4.0,Full-time,UAE,Bachelor,Business,Executive,Human Resources,1226.158038147139
+2.0,Full-time,UAE,Diploma,Real Estate & Construction,Unknown,Advertising,517.7111716621254
+0.0,Full-time,Unknown,Bachelor,Business,Manager,Retail,5449.591280653952
+2.0,Full-time,UAE,Bachelor,Education & Teaching,Executive,Education,953.6784741144415
+3.0,Full-time,UAE,High School,Business,Assistant,Technology,1089.9182561307903
+2.0,Full-time,UAE,Unknown,Business,Assistant,Technology,2179.8365122615805
+0.0,Full-time,UAE,Unknown,Healthcare & Nursing,Manager,Healthcare,1089.9182561307903
+2.0,Full-time,UAE,Unknown,Other,Unknown,Other,749.3188010899183
+4.0,Full-time,UAE,Unknown,Other,Lead,Technology,2043.5967302452318
+4.0,Full-time,UAE,Unknown,Other,Lead,Retail,1771.1171662125341
+5.0,Full-time,UAE,Bachelor,Sales & Marketing,Unknown,Technology,1498.6376021798367
+5.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Technology,3950.953678474115
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Assistant,Retail,681.198910081744
+3.0,Full-time,UAE,Unknown,Business,Assistant,Cosmetics,817.4386920980927
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Technology,2452.316076294278
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Other,953.6784741144415
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Manufacturing,613.0790190735695
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Junior,Real Estate,1226.158038147139
+3.0,Full-time,UAE,Diploma,Real Estate & Construction,Senior,Advertising,517.7111716621254
+0.0,Full-time,UAE,Unknown,Other,Senior,Hospitality,749.3188010899183
+1.0,Full-time,UAE,Unknown,Healthcare & Nursing,Unknown,Healthcare,1089.9182561307903
+3.0,Full-time,UAE,Bachelor,Other,Intern,Education,1089.9182561307903
+3.0,Full-time,MENA,Unknown,Business,Assistant,Manufacturing,885.5585831062671
+3.0,Full-time,UAE,Bachelor,Other,Unknown,Other,1362.397820163488
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Other,1021.7983651226159
+2.0,Full-time,UAE,Diploma,Other,Unknown,Advertising,572.2070844686649
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Manufacturing,749.3188010899183
+1.0,Full-time,UAE,Bachelor,Finance & Accounting,Unknown,Finance,953.6784741144415
+5.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Technology,1634.8773841961854
+0.0,Full-time,UAE,Unknown,Business,Junior,Other,408.71934604904635
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,1089.9182561307903
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,1226.158038147139
+2.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1634.8773841961854
+2.0,Full-time,UAE,Unknown,Other,Executive,Retail,1634.8773841961854
+2.0,Full-time,UAE,Bachelor,Real Estate & Construction,Senior,Real Estate,681.198910081744
+0.0,Full-time,UAE,Unknown,Other,Assistant,Other,1362.397820163488
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Manager,Technology,3133.514986376022
+0.0,Full-time,Unknown,Bachelor,Business,Senior,Healthcare,1226.158038147139
+2.0,Full-time,UAE,Unknown,Business,Executive,Other,1089.9182561307903
+0.0,Full-time,UAE,Bachelor,Other,Senior,Travel,953.6784741144415
+5.0,Full-time,UAE,Bachelor,Engineering & Technology,Manager,Manufacturing,1634.8773841961854
+2.0,Full-time,UAE,High School,IT & Computer Science,Unknown,Advertising,585.8310626702997
+3.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Retail,613.0790190735695
+0.0,Full-time,UAE,Unknown,Other,Unknown,Retail,1226.158038147139
+2.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Finance,1089.9182561307903
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Other,1158.0381471389646
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Mid,Technology,1498.6376021798367
+3.0,Full-time,UAE,Unknown,Other,Unknown,Retail,817.4386920980927
+0.0,Full-time,UAE,Unknown,Other,Senior,Food & Beverage,844.6866485013625
+2.0,Full-time,UAE,Unknown,Other,Unknown,Real Estate,1362.397820163488
+3.0,Full-time,UAE,Unknown,Real Estate & Construction,Manager,Real Estate,3678.4741144414174
+0.0,Full-time,UAE,High School,Other,Junior,Retail,735.6948228882834
+0.0,Full-time,UAE,Unknown,Other,Junior,Retail,817.4386920980927
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Real Estate,1362.397820163488
+0.0,Full-time,UAE,High School,IT & Computer Science,Unknown,Security,613.0790190735695
+1.0,Full-time,Iran,Unknown,IT & Computer Science,Assistant,Real Estate,613.0790190735695
+2.0,Full-time,UAE,High School,Real Estate & Construction,Unknown,Advertising,572.2070844686649
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Junior,Real Estate,1362.397820163488
+3.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Manufacturing,476.83923705722077
+5.0,Unknown,Unknown,Unknown,IT & Computer Science,Junior,Other,6403.269754768393
+2.0,Full-time,UAE,Unknown,Other,Executive,Manufacturing,1771.1171662125341
+1.0,Full-time,UAE,Unknown,Business,Junior,Other,476.83923705722077
+1.0,Full-time,UAE,Unknown,Business,Junior,Retail,681.198910081744
+2.0,Full-time,UAE,Diploma,Engineering & Technology,Unknown,Hospitality,681.198910081744
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Junior,Real Estate,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,2724.795640326976
+3.0,Full-time,UAE,Diploma,IT & Computer Science,Senior,Other,1351.0899182561309
+1.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1362.397820163488
+2.0,Full-time,UAE,Bachelor,Education & Teaching,Unknown,Education,1226.158038147139
+2.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1430.5177111716623
+3.0,Unknown,Unknown,Unknown,Other,Manager,Other,1362.397820163488
+0.0,Full-time,UAE,Unknown,Other,Junior,Other,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Business,Manager,Real Estate,1498.6376021798367
+1.0,Full-time,UAE,Bachelor,Other,Junior,Retail,1021.7983651226159
+3.0,Full-time,UAE,Diploma,Engineering & Technology,Unknown,Construction,1089.9182561307903
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,1634.8773841961854
+2.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Retail,817.574931880109
+1.0,Full-time,UAE,Bachelor,Other,Unknown,Retail,1021.7983651226159
+2.0,Full-time,UAE,Unknown,Other,Executive,Retail,681.198910081744
+10.0,Full-time,UAE,Bachelor,Real Estate & Construction,Manager,Construction,1634.8773841961854
+0.0,Part-time,UAE,Unknown,Business,Manager,Other,190.7356948228883
+3.0,Full-time,UAE,Master,Other,Manager,Technology,2588.555858310627
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Real Estate,817.4386920980927
+10.0,Full-time,UAE,Unknown,Other,Senior,Law,2724.795640326976
+5.0,Full-time,UAE,Diploma,Other,Manager,Other,2452.316076294278
+3.0,Full-time,UAE,Bachelor,Sales & Marketing,Manager,Retail,1498.6376021798367
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Real Estate,613.0790190735695
+3.0,Full-time,UAE,Unknown,Engineering & Technology,Senior,Other,544.9591280653951
+2.0,Full-time,UAE,Unknown,Healthcare & Nursing,Senior,Healthcare,1702.9972752043598
+2.0,Full-time,UAE,Unknown,Healthcare & Nursing,Unknown,Healthcare,1566.757493188011
+3.0,Full-time,UAE,Unknown,Healthcare & Nursing,Lead,Healthcare,749.3188010899183
+1.0,Full-time,UAE,Bachelor,Business,Unknown,Retail,2724.795640326976
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Other,749.3188010899183
+1.0,Full-time,UAE,Bachelor,Finance & Accounting,Unknown,Banking,953.6784741144415
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Manufacturing,476.83923705722077
+2.0,Full-time,UAE,Bachelor,Other,Executive,Construction,1158.0381471389646
+4.0,Full-time,UAE,Unknown,Sales & Marketing,Manager,Retail,2724.795640326976
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Retail,3814.713896457766
+2.0,Full-time,UAE,Bachelor,IT & Computer Science,Executive,Technology,817.4386920980927
+3.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Construction,544.9591280653951
+1.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Real Estate,1634.8773841961854
+2.0,Full-time,UAE,Unknown,Other,Assistant,Construction,544.9591280653951
+2.0,Full-time,UAE,Diploma,Healthcare & Nursing,Unknown,Healthcare,1771.1171662125341
+0.0,Full-time,Unknown,Bachelor,Other,Senior,Food & Beverage,2043.5967302452318
+0.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Real Estate,953.6784741144415
+4.0,Full-time,UAE,Diploma,IT & Computer Science,Executive,Construction,681.198910081744
+1.0,Full-time,UAE,Bachelor,Other,Lead,Finance,1226.158038147139
+2.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Food & Beverage,885.5585831062671
+0.0,Full-time,UAE,Unknown,Business,Executive,Other,2724.795640326976
+1.0,Full-time,UAE,Unknown,Business,Unknown,Real Estate,2179.8365122615805
+0.0,Full-time,UAE,Doctorate,Healthcare & Nursing,Senior,Healthcare,6130.790190735695
+2.0,Full-time,UAE,High School,Business,Support,Other,1089.9182561307903
+3.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Manufacturing,517.7111716621254
+0.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1226.158038147139
+2.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,2179.8365122615805
+3.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Management,1875.2043596730248
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Assistant,Real Estate,490.46321525885566
+2.0,Unknown,Unknown,Unknown,IT & Computer Science,Executive,Other,1362.397820163488
+5.0,Full-time,Unknown,Unknown,Other,Senior,Construction,749.3188010899183
+5.0,Full-time,UAE,Unknown,Business,Unknown,Technology,5449.591280653952
+3.0,Full-time,UAE,Bachelor,Other,Executive,Retail,2043.5967302452318
+2.0,Full-time,UAE,Unknown,Business,Junior,Technology,1021.7983651226159
+2.0,Full-time,Unknown,Unknown,IT & Computer Science,Lead,Technology,4632.1525885558585
+0.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Other,476.83923705722077
+2.0,Full-time,UAE,Unknown,Other,Manager,Other,1498.6376021798367
+1.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Retail,1226.158038147139
+1.0,Full-time,UAE,High School,Food & Beverage,Unknown,Hospitality,408.71934604904635
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Retail,3814.713896457766
+2.0,Full-time,UAE,Unknown,Other,Manager,Retail,1226.158038147139
+1.0,Full-time,UAE,Unknown,Business,Executive,Retail,953.6784741144415
+0.0,Full-time,UAE,Unknown,Business,Junior,Healthcare,613.0790190735695
+1.0,Full-time,UAE,Unknown,Other,Executive,Other,1634.8773841961854
+0.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Retail,749.3188010899183
+2.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Technology,749.3188010899183
+1.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,2792.9155313351503
+5.0,Full-time,UAE,Bachelor,Business,Manager,Real Estate,2724.795640326976
+0.0,Full-time,UAE,Unknown,Healthcare & Nursing,Senior,Healthcare,1771.1171662125341
+1.0,Full-time,UAE,Unknown,Other,Executive,Retail,1634.8773841961854
+5.0,Full-time,UAE,Unknown,Other,Assistant,Retail,544.9591280653951
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Senior,Technology,3133.514986376022
+2.0,Full-time,UAE,Unknown,Healthcare & Nursing,Senior,Healthcare,1771.1171662125341
+3.0,Full-time,UAE,Unknown,Business,Assistant,Other,544.9591280653951
+4.0,Unknown,Unknown,Unknown,IT & Computer Science,Assistant,Other,1656.4032697547686
+0.0,Full-time,UAE,Bachelor,Education & Teaching,Unknown,Education,1226.158038147139
+3.0,Full-time,UAE,Bachelor,Business,Assistant,Other,1079.0190735694823
+4.0,Unknown,Unknown,Unknown,Business,Lead,Other,5200.953678474115
+1.0,Full-time,UAE,Unknown,IT & Computer Science,Junior,Real Estate,408.71934604904635
+0.0,Full-time,UAE,Bachelor,Business,Unknown,Real Estate,613.0790190735695
+4.0,Unknown,Unknown,Unknown,Business,Executive,Other,1168.1198910081746
+1.0,Full-time,UAE,Unknown,Other,Unknown,Real Estate,544.9591280653951
+2.0,Full-time,UAE,Bachelor,Other,Lead,Other,1362.397820163488
+2.0,Full-time,UAE,Bachelor,Business,Mid,Other,1021.7983651226159
+7.0,Full-time,UAE,Bachelor,IT & Computer Science,Lead,Technology,3133.242506811989
+0.0,Full-time,UAE,Diploma,Business,Manager,Technology,1294.2779291553136
+2.0,Full-time,UAE,High School,Real Estate & Construction,Senior,Manufacturing,408.71934604904635
+0.0,Unknown,Unknown,Unknown,IT & Computer Science,Senior,Other,5200.953678474115
+5.0,Full-time,UAE,Unknown,Real Estate & Construction,Manager,Other,1771.1171662125341
+1.0,Full-time,UAE,Unknown,Other,Unknown,Other,1430.5177111716623
+0.0,Full-time,UAE,Bachelor,Other,Unknown,Travel,817.4386920980927
+5.0,Full-time,UAE,Diploma,Engineering & Technology,Unknown,Manufacturing,2043.5967302452318
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Assistant,Other,4904.632152588556
+5.0,Full-time,UAE,Bachelor,IT & Computer Science,Manager,Technology,2631.607629427793
+5.0,Full-time,UAE,Bachelor,Other,Unknown,Other,1074.3869209809266
+3.0,Full-time,UAE,Bachelor,Business,Senior,Other,681.198910081744
+0.0,Full-time,UAE,Bachelor,Education & Teaching,Assistant,Education,953.6784741144415
+3.0,Full-time,UAE,Bachelor,IT & Computer Science,Mid,Technology,3133.242506811989
+0.0,Full-time,UAE,Unknown,Business,Manager,Construction,544.9591280653951
+2.0,Full-time,UAE,Unknown,Business,Assistant,Services,354.22343324250687
+5.0,Full-time,UAE,Bachelor/Master,Business,Manager,Other,1907.356948228883
+2.0,Full-time,UAE,Unknown,Other,Unknown,Healthcare,709.4005449591282
+1.0,Full-time,UAE,Unknown,Business,Lead,Hospitality,517.7111716621254
+2.0,Full-time,UAE,Bachelor,Real Estate & Construction,Unknown,Real Estate,544.9591280653951
+2.0,Full-time,UAE,Diploma,Other,Senior,Healthcare,1771.1171662125341
+4.0,Full-time,UAE,Unknown,Food & Beverage,Senior,Food & Beverage,1498.6376021798367
+4.0,Full-time,UAE,Unknown,Other,Senior,Food & Beverage,1771.1171662125341
+0.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1771.1171662125341
+2.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,2179.8365122615805
+6.0,Full-time,UAE,Unknown,Other,Senior,Hospitality,1634.8773841961854
+1.0,Full-time,UAE,Bachelor,Healthcare & Nursing,Unknown,Healthcare,1771.1171662125341
+1.0,Full-time,UAE,Doctorate,Other,Senior,Healthcare,8299.273387829246
+2.0,Full-time,UAE,Unknown,Other,Manager,Real Estate,885.5585831062671
+0.0,Part-time,UAE,Unknown,Business,Manager,Other,190.7356948228883
+5.0,Full-time,UAE,Unknown,IT & Computer Science,Manager,Manufacturing,953.6784741144415
+1.0,Full-time,UAE,Unknown,Real Estate & Construction,Senior,Real Estate,2838.3287920072667
+2.0,Full-time,UAE,Unknown,Food & Beverage,Unknown,Food & Beverage,681.198910081744
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Lead,Other,749.3188010899183
+2.0,Full-time,UAE,Bachelor,Business,Unknown,Manufacturing,517.7111716621254
+1.0,Full-time,UAE,Bachelor,Other,Unknown,Education,885.5585831062671
+1.0,Full-time,UAE,Unknown,Business,Lead,Hospitality,517.7111716621254
+2.0,Full-time,UAE,Unknown,Business,Manager,Agriculture,2043.5967302452318
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Unknown,Construction,953.6784741144415
+3.0,Full-time,UAE,Unknown,Business,Manager,Agriculture,1089.9182561307903
+5.0,Full-time,UAE,Bachelor,Other,Unknown,Advertising/Marketing,3542.2343324250683
+0.0,Full-time,UAE,Unknown,Other,Unknown,Hospitality,476.83923705722077
+2.0,Full-time,UAE,Unknown,Other,Unknown,Other,1226.158038147139
+0.0,Full-time,UAE,Unknown,IT & Computer Science,Unknown,Technology,3269.754768392371
+2.0,Full-time,UAE,Unknown,Real Estate & Construction,Executive,Other,885.5585831062671
+0.0,Full-time,UAE,Unknown,Business,Executive,Other,544.9591280653951
+0.0,Freelance,UAE,Unknown,Other,Unknown,Other,1362.397820163488
+1.0,Full-time,UAE,Unknown,Other,Senior,Healthcare,885.5585831062671
+0.0,Full-time,UAE,High School,Engineering & Technology,Unknown,Other,613.0790190735695
+2.0,Full-time,UAE,Unknown,Business,Assistant,Other,817.4386920980927
+4.0,Full-time,Unknown,Bachelor,Business,Unknown,Other,1975.4768392370574
+0.0,Full-time,UAE,Unknown,Sales & Marketing,Unknown,Retail,817.4386920980927
+0.0,Full-time,UAE,Unknown,Food & Beverage,Junior,Hospitality,817.4386920980927
+3.0,Full-time,UAE,High School,IT & Computer Science,Assistant,Food & Beverage,544.9591280653951
